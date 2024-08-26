@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+
+.idea
+.DS_Store
+
+data
+notebook
+images_for_readme
