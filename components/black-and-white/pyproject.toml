@@ -8,6 +8,7 @@ packages = [{include = "black_and_white", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pillow = "^10.4.0"
 
 
 [build-system]
